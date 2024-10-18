@@ -1,5 +1,5 @@
 import React from 'react';
-import { Typography, Grid } from '@mui/material';
+import { Typography } from '@mui/material';
 import ProductList from '../components/ProductList';
 import { useShop } from '../context/ShopContext';
 
