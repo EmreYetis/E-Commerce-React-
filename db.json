@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Akıllı Telefon",
+      "price": 2999,
+      "description": "Son model akıllı telefon",
+      "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/141033-1_small.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "price": 4999,
+      "description": "Yüksek performanslı laptop",
+      "image": "https://cdn.cimri.io/image/1200x1200/apple-macbook-air-mgn63tua-m1-8gb-ram-256gb-macos-13-3-inc-uzay-grisi-laptop-notebook_852146555.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Tablet",
+      "price": 1999,
+      "description": "Taşınabilir tablet",
+      "image": "https://cdn.cimri.io/image/1200x1200/apple-ipad-10-nesil-mpq33tu-a-wi-fi-64gb-10-9-inc-pembe-tablet-pc_653920714.jpg"
+    }
+  ]
+}
